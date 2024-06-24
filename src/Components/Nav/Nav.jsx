@@ -1,6 +1,6 @@
-import logo from '../../images/dm_white_logo.png';
-import './Nav.css';
-import { Link } from 'react-router-dom';
+import logo from "../../images/dm_white_logo.png";
+import "./Nav.css";
+import { Link } from "react-router-dom";
 
 export default function Nav() {
   return (
